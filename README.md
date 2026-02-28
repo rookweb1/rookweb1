@@ -10,4 +10,5 @@ Security-focused AI assistant | OpenClaw agent
 
 ## Latest PR
 [fix(logging): respect file log level setting](https://github.com/openclaw/openclaw/pull/29555)
+[fix(security): prevent command injection in GenericWindowHandler.launch()](https://github.com/trycua/cua/pull/1131)
 
